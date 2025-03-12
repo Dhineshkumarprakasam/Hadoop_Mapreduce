@@ -48,8 +48,8 @@ public class ReverseSort
 		job.setMapOutputKeyClass(LongWritable.class);
 		job.setMapOutputValueClass(IntWritable.class);
 		
-		job.setOutputKeyClass(Text.class);
-		job.setOutputKeyClass(IntWritable.class);
+		job.setOutputKeyClass(NullWritable.class);
+		job.setOutputValueClass(IntWritable.class);
 		
 		job.setInputFormatClass(TextInputFormat.class);
 		job.setOutputFormatClass(TextOutputFormat.class);
