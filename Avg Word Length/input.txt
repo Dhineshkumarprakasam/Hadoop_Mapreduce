@@ -1,0 +1,6 @@
+hello everyone
+thank you to one and all present here
+this is a input file for testing hadoop mapreduce program.
+thank you
+thank you to one and all present here for testing mapreduce code.
+welcome, welcome
