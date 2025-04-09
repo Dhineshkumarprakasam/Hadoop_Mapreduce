@@ -1,0 +1,5 @@
+Hello world from Hadoop
+Hello everyone
+Welcome to the world of Big Data
+Hello again
+Welcome back
